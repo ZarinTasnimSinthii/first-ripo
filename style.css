@@ -1,0 +1,14 @@
+body{
+
+   background-color: burlywood; 
+}  
+#l{
+background-color: blanchedalmond; 
+font-size: larger; 
+font-family: Verdana, Geneva, Tahoma, sans-serif; 
+font-weight: 200; 
+border: 5px dotted black; 
+margin-right: 700px; 
+padding: 20px;
+
+}
